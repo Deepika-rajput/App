@@ -20,4 +20,4 @@ Deployment: Frontend hosted on Vercel, backend hosted on Render; both work toget
 
 Test the App
 
-Try it live here: chat-app-indol-five-30.vercel.app
+Try it live here: (https://newapp-omega-ochre.vercel.app)
